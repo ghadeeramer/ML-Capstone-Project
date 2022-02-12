@@ -14,14 +14,14 @@ This project was completed by Astrophiles team as a requirement in Himma Data Go
 
 ## 1. ML capstone project Overview <a name="Overview"></a> 
 
-##### The Bank Problem:
+- The Bank Problem:
 
 Getting a loan from the Social Development Bank requires some
 conditions because many conditions are difficult to extract loans,
 and this does not support our vision 2030 so we found a solution to
 this problem.
 
-##### How can Data Science help solve this problem ?
+- How can Data Science help solve this problem ?
 
 Data Science has become very important in the Finance Industry,
 which is mostly used for Better Risk Management and Risk Analysis.
@@ -29,12 +29,12 @@ Better analysis leads to better decisions which lead to an increase
 in profit for financial institutions. Companies also analyze the
 trends in data through business intelligence tools.
 
-##### Solution:
+- Solution:
 
 Reducing the number of conditions to facilitate access to loans,
 opening projects, and facilitating other things
 
-##### How our solution will drive business impact ?
+- How our solution will drive business impact ?
 
 Analyzing the trends in data through Data Science. Detection the
 featurees and minimize them will improve the use of data. Also,
@@ -82,7 +82,7 @@ improve the use of data and reduce time and work consumed.
 
 For this purpose:
 
-applied Features Engineering, EDA, PCA, and so on. ####################
+applied  EDA, Features Engineering, PCA and Regressions Models .
 
 Second, developed a model by building three different models (Linear
 Regression, Decision Tree, Random Forest) and comparing the
