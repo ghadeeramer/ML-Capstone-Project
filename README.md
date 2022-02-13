@@ -116,4 +116,6 @@ institutions.
 
 ## 7. Acknowledgements<a name="Acknowledgements"></a> 
 
-...
+
+
+My sincere appreciation to SDA and Coding Dojo for supporting us and guidance throughout the project journey.
